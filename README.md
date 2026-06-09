@@ -9,9 +9,9 @@ Unityの共同開発をするときに使用するGitのコマンドの一覧・
 
 ## 最初のセットアップ
 * `git clone <URL>` GitHubにあるプロジェクトを自分のPCにダウンロードする
-#### ※新しく GitHub に上げる場合
-* `git init` 新しく GitHub に上げる場合は上記ではなくこのコマンド
-* その後、 `git remote add origin <URL>` で自分のPCとGitHubのURLを紐付ける
+  #### ※新しく GitHub に上げる場合
+  * `git init` 新しく GitHub に上げる場合は上記ではなくこのコマンド
+  * その後、 `git remote add origin <URL>` で自分のPCとGitHubのURLを紐付ける
 
 URLは右上の「<> Code ▼」ボタンから取得できる
 ![画像](画像1.png)
